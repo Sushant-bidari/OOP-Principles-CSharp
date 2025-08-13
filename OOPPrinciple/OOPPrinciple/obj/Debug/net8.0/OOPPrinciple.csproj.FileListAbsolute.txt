@@ -1,0 +1,14 @@
+E:\Intern\OOPPrinciple\OOPPrinciple\bin\Debug\net8.0\OOPPrinciple.exe
+E:\Intern\OOPPrinciple\OOPPrinciple\bin\Debug\net8.0\OOPPrinciple.deps.json
+E:\Intern\OOPPrinciple\OOPPrinciple\bin\Debug\net8.0\OOPPrinciple.runtimeconfig.json
+E:\Intern\OOPPrinciple\OOPPrinciple\bin\Debug\net8.0\OOPPrinciple.dll
+E:\Intern\OOPPrinciple\OOPPrinciple\bin\Debug\net8.0\OOPPrinciple.pdb
+E:\Intern\OOPPrinciple\OOPPrinciple\obj\Debug\net8.0\OOPPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intern\OOPPrinciple\OOPPrinciple\obj\Debug\net8.0\OOPPrinciple.AssemblyInfoInputs.cache
+E:\Intern\OOPPrinciple\OOPPrinciple\obj\Debug\net8.0\OOPPrinciple.AssemblyInfo.cs
+E:\Intern\OOPPrinciple\OOPPrinciple\obj\Debug\net8.0\OOPPrinciple.csproj.CoreCompileInputs.cache
+E:\Intern\OOPPrinciple\OOPPrinciple\obj\Debug\net8.0\OOPPrinciple.dll
+E:\Intern\OOPPrinciple\OOPPrinciple\obj\Debug\net8.0\refint\OOPPrinciple.dll
+E:\Intern\OOPPrinciple\OOPPrinciple\obj\Debug\net8.0\OOPPrinciple.pdb
+E:\Intern\OOPPrinciple\OOPPrinciple\obj\Debug\net8.0\OOPPrinciple.genruntimeconfig.cache
+E:\Intern\OOPPrinciple\OOPPrinciple\obj\Debug\net8.0\ref\OOPPrinciple.dll
