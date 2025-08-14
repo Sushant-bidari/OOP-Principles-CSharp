@@ -23,8 +23,3 @@ Press Ctrl + F5 to run without debugging
 Or use dotnet run in the terminal
 
 
-👨‍💻 Author
-Sushant Bidari
-📍 Hetauda, Nepal
-📧 sushantbidari7@gmail.com
-
