@@ -13,9 +13,7 @@ Each principle is implemented in its own demo class for clarity and easy underst
 1. Clone the repository
 bashgit clone https://github.com/Sushant-bidari/OOPPrinciple.git
 
-cd OOPPrinciple
-
-3. Open in Visual Studio
+2. Open in Visual Studio
 
 File → Open → Project/Solution → Select OOPPrinciple.sln
 
@@ -26,10 +24,7 @@ Or use dotnet run in the terminal
 
 
 👨‍💻 Author
-
 Sushant Bidari
-
 📍 Hetauda, Nepal
-
 📧 sushantbidari7@gmail.com
 
